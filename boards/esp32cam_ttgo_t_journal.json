@@ -6,7 +6,7 @@
     },
     "core": "esp32",
     "extra_flags": [
-      "'-D ESP32CAM_TTGO_T_JORNAL'",
+      "'-D ESP32CAM_TTGO_T_JOURNAL'",
       "'-D CAMERA_CONFIG_PIN_PWDN=0'",
       "'-D CAMERA_CONFIG_PIN_RESET=15'",
       "'-D CAMERA_CONFIG_PIN_XCLK=27'",
@@ -48,7 +48,7 @@
     "arduino",
     "espidf"
   ],
-  "name": "ESP32-CAM TTGO-T-CAMERA",
+  "name": "ESP32-CAM TTGO-T-JOURNAL",
   "upload": {
     "flash_size": "4MB",
     "maximum_ram_size": 327680,
